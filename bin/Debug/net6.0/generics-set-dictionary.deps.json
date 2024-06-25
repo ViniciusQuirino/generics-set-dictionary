@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "generics-set-dictionary/1.0.0": {
+        "runtime": {
+          "generics-set-dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "generics-set-dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
